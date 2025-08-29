@@ -1,4 +1,4 @@
-# 🛍️ Online Store - React App
+# 🛍️ E-Commerce-Shopping-Website - React App
 
 A stylish single-page fashion shopping website built with React. Users can browse products and add them to a wishlist.
 
