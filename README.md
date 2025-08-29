@@ -50,8 +50,8 @@ my-react-app/
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/shrutikapatil9/shopping-store.git
-cd shopping-store
+git clone https://github.com/Shashivardhanbandi/E-Commerce-Shopping-Website.git
+cd E-commerce-Shopping-Website
 npm install
 npm start
 
